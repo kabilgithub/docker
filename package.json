@@ -1,0 +1,12 @@
+{
+  "name": "node_app1",
+  "version": "1.0.0",
+  "description": "application with multiple docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing",
+    "start": "node index.js"
+  },
+  "author": "kabil jayaraman",
+  "license": "ISC"
+}
